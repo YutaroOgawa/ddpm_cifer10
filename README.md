@@ -9,5 +9,4 @@
 
 ノイズから画像を生成される様子をGifで保存します。
 
-![demo](./ddpm_ship_230702.gif)
-
+<img width="640"alt="gif" src="./ddpm_ship_230702.gif">
